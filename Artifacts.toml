@@ -1,0 +1,270 @@
+[[TopOpt_in_PETSc]]
+arch = "aarch64"
+git-tree-sha1 = "319a301e31e5c176e42bd70c3c73db11ea54f304"
+os = "macos"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "f5030a4d66efa9acd841a672e26ab501afdbf8479406c7d1f1637177b58a487f"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "60fd930dc08dd9b4adec6bfbac93b299bf9d0d08"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "73c88689217827c49471ea0ca15aaebd54383867a91a11823183e94ed8daa96e"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f314a877534f0b1d50b26f6f2a4305d4ffa94ee4"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "0511a30c2e2db6ac7b5ce951d5889961e133ba3c017f01c8b29a137d9fecd015"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a033eb072b3befff977a8a8476dbb6ca0b333b58"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "02011d8e79b627eaca050990ed57f08c493d7fbd7f0db0faa8621cf682d12edd"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "542eb3602887908d0008efc52b971cdee2fa3991"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "4b0b255a223b10fba4e3000fbedaf664cdfdd6896baf5eb519c1c80f80c21bae"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bca33256e828158a639ef1909da461c2ea2ab179"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "cecd72093e046c8eda6ac0920fe0713b7d0ca1c91205e2b9282e350c440341c2"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7fd52782c47ccbd1e2752a7629b795101cfdab6a"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "1848d338df11912c635bbbdd357c9878d5ae2a1807bfb752f887e7dfd0d62d02"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a94685e03ad69f7d1a9c93987eb7a23982bd3f05"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "e8d80f6d68dcc85bdb9708a2f06eb4280beac44a144e318509375bddc74200dc"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d43f00830ab97cd91d8280fe59206c7ad30b0be"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "4da9a81ef7eb3938b4f55562a71d65b2a809143ac75cb78060f1db30e37be5dc"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a1d45d1646ae1945e0b0e51b218bb7a2759d78e"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "d88fb2041bc906b3afff77fc7bdf38834e153a5b690544b6d4501be26a84c357"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c45e5cc81f84f5ee81943ca8324495dc4d2151bc"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "48c6526206e62bf3a0094dd299d0a1639ed917d5a157b614f5372907a5505ce6"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8a2a6aedfd3643d5de6b7cf7524ceb8e69e0f169"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "4c2888173993704be8279131ff245523fcc01435da88967d469bd752b5523624"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4cf2fb20be54a217f23bb249b25527fe07c80ab5"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "bc0b3e9ef74753263d841013fd61bfa6dc63414a4d43ef3c076d3c8077054079"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8159dca4ff115f3de3985744f80370041f35620"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "3fc87123d1fef930058fc6b6f4171613d2ad3084621d3b20a8433e8a9756431b"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9a4e4262bab4288a656dbc1d507a4d795cfd56fd"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "e63808c3156192bf513f82b002b7571391959699e6a6026494bc19b814a13531"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "672379236709e8d953e3eb5dbf3aeae868c11238"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "c754938c90a334dd7e8dd6345130a3a6b66921c7023c8fe627adcaf7ef084b7d"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "628907f5201218ac9e8ba43fdb32582a19553408"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "9e7d657cff25460a434e81f79ee8039728423b30073366f8e40186a323d70faf"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0475220b87d434f0755fe8d782c25b7d8763d018"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "1830a602f6a32576b09b31e8a6ee24d1b10dbaa7038f59e28cb54884b851561a"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e7f54d746be75dd80fc8397f42101514b5752c2"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "55c846526cea911e17dd7011577cbe5ff0143455b335c90f6dac55ed727db58f"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+git-tree-sha1 = "2aa8920bd85c513351bfef04ae80677ffdcd511f"
+os = "macos"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "b90d8e883ab2d3b6ee6534ef815def37e28e019cee80172ef2745614581c1723"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f7e44073814817fe8045e5f0810a1177297ab801"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "f0956c42492adfc62a81a28b213d5ec5b25689b2393c0dd80f3da860396bdecc"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f57ac1f2c8f4ca953c37c8eeac6622af5bc74306"
+libc = "glibc"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "e859dbf2ec479f82fd2b53a987db40a727613cb5c86ee6073d3f6b8305b5e699"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ae85705a7f8f459b8960fdb66ba9a0e6a05dc906"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "1650cd10e84e6aa009b31b1620a2634fac7d6fe19e64d7116c9410850fc74db0"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ef6971994e3bd2781710c1fa94c54b9a4e69959"
+libc = "musl"
+os = "linux"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "eab6454de943b26e55e1df5a20274a6d0edb4b2ad2d7c33f56802be0c67812c3"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+git-tree-sha1 = "f99ea36cf535aac7597812f621bae7aefb166036"
+os = "freebsd"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "936328af3186062bb0f3d12a8cea682f55261e3f20f54b111217de8d6e65961c"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b42f4aebfa008e87d6568b647526def6d375ff73"
+os = "windows"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "9b2e5f645c6990a33bd33076728466ef6dbbb934fdef330566e5717082b3efef"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[TopOpt_in_PETSc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6840d0b049f98cb843cc4b3cefaa6af9bfdc3f0f"
+os = "windows"
+
+    [[TopOpt_in_PETSc.download]]
+    sha256 = "570e8ed35650d2c52dbee43269b8e0c5cdc546b36c8d26d508ea6a73e462002e"
+    url = "https://github.com/JuliaBinaryWrappers/TopOpt_in_PETSc_jll.jl/releases/download/TopOpt_in_PETSc-v0.1.0+0/TopOpt_in_PETSc.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
